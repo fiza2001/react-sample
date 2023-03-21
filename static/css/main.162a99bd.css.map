@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.162a99bd.css","mappings":"AAAA,KACE,wBAA2B,CAC3B,YACF","sources":["App.css"],"sourcesContent":["body{\n  background-color: lightcyan;\n  color: indigo;\n}"],"names":[],"sourceRoot":""}
